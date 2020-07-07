@@ -2,11 +2,15 @@
 
 I'm Angela, a rising senior studing Computer Science at Cornell University.
 
-Ask me about:
-* 🌱 my recent amateur gardening projects
-* 🤔 my experiences as an undergraduate research assistant
-* ✨ lessons I've learned as a TA for CS 3410: Computer Systems Programming and Organization 
-Pronouns: She/Her/Hers
+💬 Ask me about:
+* 🌱  my recent amateur gardening projects
+* 🤔  my experiences as an undergraduate research assistant
+* ✨  lessons I've learned as a TA for CS 3410: Computer Systems Programming and Organization 
+
+📫 How to reach me:
+* [LinkedIn](https://www.linkedin.com/in/angela-c-jin/)
+
+😄 Pronouns: She/Her/Hers
 
 <!--
 **acjin21/acjin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
