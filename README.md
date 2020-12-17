@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Angela, a rising senior studing Computer Science at Cornell University.
+I'm Angela, a senior studing Computer Science at Cornell University.
 
 💬 Ask me about:
 * 🌱  my recent amateur gardening projects
-* 🤔  my experiences as an undergraduate research assistant
+* 🤔  my experiences as an undergraduate research assistant in computer architecture
 * ✨  lessons I've learned as a TA for CS 3410: Computer Systems Programming and Organization 
 
 📫 How to reach me:
