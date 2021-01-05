@@ -3,7 +3,7 @@
 I'm Angela, a senior studing Computer Science at Cornell University.
 
 💬 Ask me about:
-* 🌱  my recent amateur gardening projects
+* 🌱  my passion for tech x social good as a tech lead at Hack4Impact Cornell and content writer at Bytes of Good
 * 🤔  my experiences as an undergraduate research assistant in computer architecture
 * ✨  lessons I've learned as a TA for CS 3410: Computer Systems Programming and Organization 
 
